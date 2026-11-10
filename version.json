@@ -1,5 +1,5 @@
 {
-    "version": "3.3.1",
-    "url": "https://github.com/impat83/networktool-download/releases/latest",
-    "notes": "Update-Prüfung über GitHub aktiv, Download öffentlich auf GitHub."
+    "version": "3.4.0",
+    "url": "https://github.com/impat83/netzwerk-toolbox-download/releases/latest",
+    "notes": "Neuer Name: Netzwerk-Toolbox (vorher Networktool). Beim Installieren werden Profile und Einstellungen übernommen und die alte Version entfernt."
 }
