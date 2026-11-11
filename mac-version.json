@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "url": "https://github.com/impat83/netzwerk-toolbox-download/releases/latest/download/Netzwerk-Toolbox-Mac.zip",
-  "notes": "Testeintrag (wird gleich auf 1.0.1 gesetzt)."
+  "notes": "Mac-Version mit Update-Pruefung: zeigt kuenftig unten im Fenster, wenn eine neue Version bereitsteht."
 }
