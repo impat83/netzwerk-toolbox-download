@@ -1,5 +1,5 @@
 {
-    "version": "3.4.0",
+    "version": "3.5.0",
     "url": "https://github.com/impat83/netzwerk-toolbox-download/releases/latest",
-    "notes": "Neuer Name: Netzwerk-Toolbox (vorher Networktool). Beim Installieren werden Profile und Einstellungen übernommen und die alte Version entfernt."
+    "notes": "Neue Seite «Erweitert»: passive Analyse einer bestehenden Anlage. Liest nur mit (ARP, DHCP, mDNS, SSDP, NetBIOS, LLMNR, LLDP) und zeigt ein Inventar mit Hersteller, Kategorie, Name und Diensten, dazu den Switch-Port des eigenen PCs. Vergleich mit dem letzten Lauf, Export als CSV und HTML-Bericht, optionale aktive Abfrage. Der Assistent «AV-Netzwerk prüfen» führt in zehn erklärten Schritten durch die Aufnahme (u.a. doppelte IP-Adressen, mehrere DHCP-Server, IGMP-Querier, Dante-Uhr, Suche nach stillen Geräten). Ausserdem: Schalter «Automatik Privat» auf der Seite Netzwerk-Info; ein angewendetes Profil stellt das Netzwerk auf Privat."
 }
